@@ -76,27 +76,27 @@
     }
 
     .long-text {
-        margin-left: 20%;
-        margin-right: 20%;
+        margin-left: 15%;
+        margin-right: 15%;
         color: #000;
     }
     .long-text-heading {
-        margin-left: 20%;
-        margin-right: 20%;
+        margin-left: 15%;
+        margin-right: 15%;
         margin-bottom: 15px;
         color: #2a85be;
         padding-bottom: 1%;
     }
     .feature-heading {
-        margin-left: 20%;
-        margin-right: 20%;
+        margin-left: 15%;
+        margin-right: 15%;
         margin-bottom: 15px;
         color: #2a85be;
         padding-bottom: 1%;
     }
     .feature-row {
-        margin-left: 20%;
-        margin-right: 20%;
+        margin-left: 15%;
+        margin-right: 15%;
     }
     .text-copy {
         background-color: lightgrey;
@@ -206,6 +206,10 @@
             padding-top: 80px;
             color: white;
         }
+        .feature-row {
+            margin-left: 15%;
+            margin-right: 15%;
+        }
 
     }
 
@@ -218,9 +222,19 @@
             -webkit-column-count: 2; /* Chrome, Safari, Opera */
             -moz-column-count: 2; /* Firefox */
             column-count: 2;
+            margin-left: 15%;
+            margin-right: 15%;
+        }
+        .long-text-heading {
+            margin-left: 15%;
+            margin-right: 15%;
         }
         .feature-heading {
-            margin-left: 1.7%;
+            margin-left: 16%;
+        }
+        .feature-row {
+            margin-left: 15%;
+            margin-right: 15%;
         }
 
     }
